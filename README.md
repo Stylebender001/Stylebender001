@@ -5,7 +5,7 @@
 Cybersecurity graduate from Nepal, currently interning at Djin Works where I perform reconnaissance, exploitation, and reporting on lab environments.
 
 ### Tools
-Nmap · Wireshark · OWASP ZAP · OpenVAS · Metasploit · Volatility3 · Wazuh
+Nmap · Wireshark · OWASP ZAP · OpenVAS · Metasploit · Volatility3 · SIEM
 
 ### Certifications
 - **Blue Team Fundamentals (BTF)** — CyberWarFare Labs, 2026 — [Verify](https://labs.cyberwarfare.live/credential/achievement/6ae077e37bd2ad906546eb1c)
