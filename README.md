@@ -72,4 +72,5 @@ I'm interested in opportunities where I can learn, contribute, investigate, and 
 ## 📫 Connect With Me
 
 - GitHub: [@Stylebender001](https://github.com/Stylebender001)
+- LinkedIn: [Shardul Sapkota](https://www.linkedin.com/in/shardul-sapkota-722913229/)
 
