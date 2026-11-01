@@ -57,8 +57,7 @@ A practical web application security assessment exploring common vulnerabilities
 
 ## 📚 Currently Learning
 
-- CompTIA Security+ (SY0-701) foundations
-- HarvardX CS50 Cybersecurity
+- CompTIA Security+ (SY0-701)
 - SIEM investigations and detection engineering
 - Practical penetration testing
 - Cyber Threat Intelligence
