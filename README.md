@@ -55,6 +55,19 @@ A practical web application security assessment exploring common vulnerabilities
 
 [View Project →](https://github.com/Stylebender001/dvwa-vulnerability-assessment)
 
+## 🎓 Certifications & Professional Training
+
+- **Blue Team Fundamentals (BTF) — CyberWarFare Labs**
+  - Hands-on training in web, network, and host-based attack analysis.
+  - Covered defensive techniques, SIEM searches, and enterprise cyber defender roles.
+  - [View Achievement Credential](https://labs.cyberwarfare.live/credential/achievement/6ae077e37bd2ad906546eb1c)
+- **Broadway Infosys — Ethical Hacking Training** — Completed
+
+## 📖 Currently Studying
+
+- **HarvardX — CS50's Introduction to Cybersecurity** — In progress
+- **CompTIA Security+ (SY0-701)** — Exam preparation
+
 ## 📚 Currently Learning
 
 - CompTIA Security+ (SY0-701)
